@@ -38,7 +38,7 @@
 
 # Projects
 - Masters Thesis
-mattmckay17.github.io/seniordesign
+[link](seniordesign.md)
 - Senior Design
 - Arduino Robot
 
