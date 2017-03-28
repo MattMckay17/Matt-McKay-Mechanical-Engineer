@@ -1,6 +1,6 @@
 ### Matt McKay
 ## Materials Engineering Graduate Student at Santa Clara Univeristy
-
+# Skills
 # Education
  - Bachelor of Science 
    - 2016
@@ -33,6 +33,12 @@
   - Wrote proposals for product design changes and discovered a critical software problem
   -	Provided quality assurance by writing and implementing test plans for hardware and software functionality tests presenting results at weekly meetings
   -	Assisted database administrator in performing large data manipulations
+
+# Projects
+- Masters Thesis
+- Senior Design
+- Arduino Robot
+
 
 
 
