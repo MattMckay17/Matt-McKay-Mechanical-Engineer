@@ -8,7 +8,7 @@
    - 2016
    - Mechanical Engineering
    - Santa Clara University
-  - Masters of Sciences
+  - Master of Science
     - Expected March 2018
     - Materials Engineering
     - Santa Clara University
