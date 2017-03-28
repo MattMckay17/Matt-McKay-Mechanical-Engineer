@@ -1,5 +1,6 @@
-###### Matt McKay
+# Matt McKay
 ## Materials Engineering Graduate Student at Santa Clara Univeristy
+
 # Skills
 
 # Education
