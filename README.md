@@ -39,7 +39,7 @@
 
 # Projects
 - Masters Thesis
-[link](seniordesign.md)
+-[Senior Design](seniordesign.md)
 - Senior Design
 - Arduino Robot
 
