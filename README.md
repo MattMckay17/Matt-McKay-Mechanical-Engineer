@@ -2,12 +2,11 @@
 ## Materials Engineering Graduate Student at Santa Clara Univeristy
 
 # Education
-education:
  - level: Bachelor of Science (B.Sc.)
    date: 2016
    subject: Mechanical Engineering
    school: Santa Clara University
-  -level: Masters of Sciences
+  - level: Masters of Sciences
     date: Expected March 2018
     subject: Materials Engineering
     school: Santa Clara University
