@@ -1,6 +1,7 @@
-### Matt McKay
+###### Matt McKay
 ## Materials Engineering Graduate Student at Santa Clara Univeristy
 # Skills
+
 # Education
  - Bachelor of Science 
    - 2016
@@ -10,6 +11,7 @@
     - Expected March 2018
     - Materials Engineering
     - Santa Clara University
+
 # Roles
 - Mechanical Engineer Nanocore
   - September 2016 -Present
@@ -36,6 +38,7 @@
 
 # Projects
 - Masters Thesis
+mattmckay17.github.io/seniordesign
 - Senior Design
 - Arduino Robot
 
